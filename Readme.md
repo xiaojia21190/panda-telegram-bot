@@ -1,6 +1,6 @@
 # 使用
 ```shell
-git clone https://github.com/zooPanda/panda_bot.git
+git clone https://github.com/xiaojia21190/panda-telegram-bot
 ```
 修改 `ecosystem.config.js` 中的BOTTOKEN
 
